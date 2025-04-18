@@ -79,3 +79,5 @@ if __name__ == "__main__":
         print(f"\nRecognized Text: {recognized_text}")
     else:
         print("\nNo text was recognized")
+
+# edit code 
