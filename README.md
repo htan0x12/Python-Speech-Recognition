@@ -20,7 +20,7 @@ just as shown below;
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Kalebu/Python-Speech-Recognition-
+
 
 # Go into the repository
 $ cd Python-Speech-Recognition-
