@@ -2,7 +2,7 @@ import speech_recognition as sr
 
 recognizer = sr.Recognizer()
 
-''' recording the sound '''
+
 
 with sr.AudioFile("./sample_audio/speech.wav") as source:
     recorded_audio = recognizer.listen(source)
@@ -19,3 +19,4 @@ try:
 
 except Exception as ex:
     print(ex)
+# update code 
