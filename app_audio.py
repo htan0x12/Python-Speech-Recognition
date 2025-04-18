@@ -15,8 +15,9 @@ try:
             recorded_audio, 
             language="en-US"
         )
-    print("Decoded Text : {}".format(text))
+    print("Decoded :: Text : {}".format(text))
 
 except Exception as ex:
     print(ex)
 # update code 
+
