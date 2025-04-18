@@ -80,4 +80,4 @@ if __name__ == "__main__":
     else:
         print("\nNo text was recognized")
 
-# edit code 
+# comimt add
